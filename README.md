@@ -11,7 +11,7 @@ It scraped the property details of airbnb simply by searching it's location.
 
 * Limitations
     - Currency now is only in  **USD**
-    - Maximum **500** pages are shown so better narrow down your location search
+    - Maximum **15** pages are shown so better narrow down your location search
 
 ## Bugs, fixes, updates, and changelog
 
