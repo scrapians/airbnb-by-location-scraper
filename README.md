@@ -47,5 +47,8 @@ The following is an example of the data obtained through the scraping process:
   "property_id": "25569079"
 }
 ```
+
+## How to run this scraper?
+[Watch this](https://www.loom.com/share/bbd168944665479a936acd2030a87c45)
 ## Contact
 If you need more customization contact me
